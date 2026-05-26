@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenfync",
+        "uuid": 355212,
+        "checksum": "298s25"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
